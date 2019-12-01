@@ -1,4 +1,4 @@
-body,
+    body,
     h1,
     h2,
     h3,
@@ -7,15 +7,19 @@ body,
     h6 {
         font-family: "Karma", sans-serif
     }
+
     .w3-bar-block .w3-bar-item {
         padding: 20px
     }
+
     .w3-margin-left-me {
         margin-left: 30px!important
     }
+
     .w3-margin-right-me {
         margin-right: 30px!important
     }
+
     .w3-circle {
         border-radius: 50%
     }
